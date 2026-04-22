@@ -28,7 +28,7 @@ class Daniel:
     curso       = "Full Stack Developer Jr."
     foco        = "Back-End 🐍"
     linguagens  = ["Python", "HTML"]
-    ferramentas = ["PyCharm", "Git", "GitHub", "Figma", "Windows"]
+    ferramentas = ["PyCharm", "Git", "GitHub", "Figma", "Linux"]
     estudando   = "Desenvolvimento Full Stack (Back-End first 💪)"
     proximos    = ["CSS", "JavaScript", "SQL", "APIs REST"]
     meta_2025   = "Construir minha primeira API funcional com Python"
@@ -54,9 +54,8 @@ class Daniel:
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📚 Aprendendo em breve
 
