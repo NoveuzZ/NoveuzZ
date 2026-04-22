@@ -1,7 +1,3 @@
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:f97316,80:a855f7,100:00d4ff&height=130&section=header" width="100%"/>
-
 <div align="center">
 
 ## 🚀 Situação Atual
@@ -20,7 +16,6 @@
 | 🔮 **Próximos passos** | CSS → JavaScript → SQL → APIs |
 | 💬 **Fale comigo sobre** | Python, lógica, começo no dev |
 | ⚡ **Curiosidade** | Comecei há poucos meses e já não consigo parar |
-| 🐧 **Sistema** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | 🕐 **Disponível** | Para conectar com outros devs iniciantes! |
 
 </div>
@@ -49,18 +44,6 @@ FERRAMENTAS ──────────────────────�
   ✅ Git & GitHub                [■■■░░░░░░░]  35%
   ✅ Figma (básico)              [■■░░░░░░░░]  20%
 ```
-
----
-
-<div align="center">
-
-## 🔥 Streak de Commits
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NoveuzZ&background=0d1117&border=a855f7&stroke=a855f7&ring=00d4ff&fire=f97316&currStreakNum=00d4ff&sideNums=a855f7&currStreakLabel=f97316&sideLabels=f97316&dates=8b949e&excludeDaysLabel=8b949e&font=Fira+Code)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
