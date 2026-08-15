@@ -41,8 +41,8 @@ Exercício de Python para cadastro, autenticação e persistência local. Um reg
 ### [`historico-de-pedidos`](https://github.com/NoveuzZ/historico-de-pedidos)
 Consulta e filtragem de pedidos vinculados ao usuário autenticado, mantendo a continuidade dos estudos de persistência e busca.
 
-### Próximo projeto
-Aplicação Python para organização pessoal, planejada para funcionar no computador e no celular com a mesma base de código.
+### [`noxdesk`](https://github.com/NoveuzZ/noxdesk)
+Painel local de tarefas e estudos em Python, com interface responsiva e API local para computador e celular.
 
 ## `~/roadmap`
 
