@@ -1,127 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,25:120000,52:3b0700,76:9f1d00,100:ff6a00&height=230&section=header&text=NOVEUZZ&fontSize=64&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=PYTHON%20%2F%2F%20BACK-END%20%2F%2F%20NO%20ESCUR0&descSize=18&descAlignY=74&descColor=ffb36b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,18:0b0b0b,42:210000,66:6b1200,84:d93600,100:ff8a00&height=260&section=header&text=RIDE%20THE%20CODE&fontSize=58&fontColor=ffffff&fontAlignY=48&animation=fadeIn&desc=NOVEUZZ%20%2F%2F%20PYTHON%20%2F%2F%20BACK-END&descSize=18&descAlignY=72&descColor=ffd1b3" width="100%"/>
 
 ```text
-             .        .        .        .
-       .  .     .  .      .  .      .  .
-    .       ███████╗██╗██████╗ ███████╗    .
-        .   ██╔════╝██║██╔══██╗██╔════╝  .
-   .        █████╗  ██║██████╔╝█████╗       .
-        .   ██╔══╝  ██║██╔══██╗██╔══╝    .
-    .       ██║     ██║██║  ██║███████╗    .
-       .    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ .
-             .        .        .        .
+          .          .          .          .          .
+      .       .   .       .  .       .   .       .
+   .       ██████╗ ██████╗ ██████╗ ███████╗    .
+        .  ██╔══██╗██╔══██╗██╔══██╗██╔════╝ .
+   .       ██████╔╝██████╔╝██████╔╝█████╗       .
+        .  ██╔══██╗██╔═══╝ ██╔═══╝ ██╔══╝   .
+   .       ██║  ██║██║     ██║     ███████╗    .
+      .    ╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝ .
+          .          .          .          .          .
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=1100&color=FF8A4C&center=true&vCenter=true&width=820&lines=Python+%7C%7C+Back-end;Construindo+sistemas+do+zero;L%C3%B3gica%2C+terminal+e+persist%C3%AAncia;O+c%C3%B3digo+continua+aceso.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=900&color=FF8A4C&center=true&vCenter=true&width=900&lines=PYTHON+%7C%7C+BACK-END+%7C%7C+NIGHT+BUILD;ENTRADA%3A+IDEIA+%7C+SA%C3%8DDA%3A+SISTEMA;L%C3%93GICA%2C+TERMINAL%2C+PERSIST%C3%8ANCIA;KEEP+MOVING+%2F%2F+KEEP+BUILDING)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-ff5a00?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/FOCO-PYTHON-111111?style=for-the-badge&logo=python&logoColor=ffb36b"/>
-<img src="https://img.shields.io/badge/MODO-BACK--END-240000?style=for-the-badge&logo=serverfault&logoColor=ff6a00"/>
+<img src="https://img.shields.io/badge/ENGINE-PYTHON-ff6a00?style=for-the-badge&labelColor=050505&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/SECTOR-BACK--END-8f1d14?style=for-the-badge&labelColor=050505&logo=serverfault&logoColor=ffd1b3"/>
+<img src="https://img.shields.io/badge/STATE-ALWAYS%20BUILDING-ffb000?style=for-the-badge&labelColor=050505&logo=codeforces&logoColor=ffffff"/>
 
 </div>
 
 <br>
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  NOVEUZZ@GITHUB                                               ║
-║                                                              ║
-║  > iniciando sessão...                                      ║
-║  > carregando foco: PYTHON                                  ║
-║  > carregando ambiente: BACK-END                            ║
-║  > mantendo o sistema em movimento                          ║
-║                                                              ║
-║  [██████████████████████████████████████████████████] 100%  ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║  NOVEUZZ@GITHUB :: NIGHT SHIFT                                ║
+║                                                                ║
+║  [BOOT]  carregando ambiente Python........................OK  ║
+║  [BOOT]  abrindo núcleo back-end............................OK  ║
+║  [BOOT]  aquecendo lógica....................................OK  ║
+║  [BOOT]  liberando terminal.................................OK  ║
+║                                                                ║
+║  FUEL  [██████████████████████████████████████████████] 100%  ║
+║  MODE  BUILD / TEST / FIX / REPEAT                            ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-## `// quem está por trás do terminal`
+## `// identidade do sistema`
 
-Sou Daniel, desenvolvedor em formação com foco em **Python e back-end**. Estou construindo minha base por meio de projetos próprios, testando ideias no terminal e transformando problemas pequenos em sistemas funcionais.
+Sou Daniel, desenvolvedor em formação com foco em **Python e back-end**. Este perfil é meu espaço de construção: cada projeto nasce pequeno, passa pelo terminal, quebra algumas vezes e volta mais organizado.
 
-Gosto da parte que não aparece de primeira: autenticação, regras de negócio, persistência, validação e a lógica que faz tudo continuar funcionando quando a interface termina.
+Meu interesse está na parte que sustenta um sistema: autenticação, regras de negócio, arquivos, dados, validações e a lógica que continua funcionando mesmo quando ninguém está olhando.
 
 ```python
 class NoveuzZ:
-    foco = "Python / Back-end"
-    ambiente = "terminal / sistemas pessoais"
-    processo = ["aprender", "construir", "testar", "melhorar"]
-    estado = "em evolução"
+    linguagem = "Python"
+    especialidade = "Back-end em construção"
+    ambiente = "terminal + sistemas locais"
+    combustível = "curiosidade"
 
-    def continuar(self):
-        return "o código continua aceso"
+    def executar(self):
+        while True:
+            ideia = self.observar()
+            sistema = self.construir(ideia)
+            self.testar(sistema)
+            self.melhorar(sistema)
 ```
 
-## `// núcleo atual`
+## `// mapa da máquina`
+
+| Núcleo | Leitura atual | Próximo movimento |
+|:---|:---|:---|
+| Python | `█████████████████░░░` | aprofundar estrutura e boas práticas |
+| Lógica | `███████████████░░░░░` | transformar regras em funções claras |
+| Back-end | `████████████░░░░░░░░` | começar APIs e serviços |
+| Dados | `██████████░░░░░░░░░░` | avançar de TXT para SQLite |
+| Testes | `██████░░░░░░░░░░░░░░` | criar uma base automatizada |
+
+## `// garagem de projetos`
+
+> Projetos pequenos. Problemas reais. Código que pode ser aberto, lido e executado.
+
+| Projeto | O que existe dentro | Sinal técnico |
+|:---|:---|:---|
+| [`sistema-de-login-txt`](https://github.com/NoveuzZ/sistema-de-login-txt) | Cadastro, login, validação e persistência local. | Entrada, estado e controle de tentativas. |
+| [`historico-de-pedidos`](https://github.com/NoveuzZ/historico-de-pedidos) | Consulta e busca de pedidos do usuário. | Leitura, filtros e organização de dados. |
+| [`lanchonete-express`](https://github.com/NoveuzZ/lanchonete-express) | Categorias, carrinho, pagamento simulado e histórico. | Regras de negócio e fluxo completo. |
 
 <div align="center">
 
-| Módulo | Estado |
-|:---|:---|
-| Python | `████████████████░░░░` praticando todos os dias |
-| Lógica | `██████████████░░░░░░` construindo a base |
-| Back-end | `███████████░░░░░░░░░` aprofundando aos poucos |
-| Persistência | `█████████░░░░░░░░░░░` arquivos e primeiros dados |
-| APIs | `██████░░░░░░░░░░░░░░` próximo passo |
+[![Abrir repositórios](https://img.shields.io/badge/ABRIR%20REPOSIT%C3%93RIOS-ff5a00?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/NoveuzZ?tab=repositories)
 
 </div>
 
-## `// projetos em combustão`
-
-> Cada repositório abaixo representa uma etapa real de construção. Pequeno não significa parado.
-
-### [`sistema-de-login-txt`](https://github.com/NoveuzZ/sistema-de-login-txt)
-
-Cadastro e login em Python usando arquivos locais. Um exercício de entrada, validação, persistência e controle de tentativas.
-
-`Python` `Arquivos TXT` `Terminal`
-
-### [`historico-de-pedidos`](https://github.com/NoveuzZ/historico-de-pedidos)
-
-Consulta e busca de pedidos por usuário, praticando leitura de dados, filtros de texto e organização de informações.
-
-`Python` `Busca` `Persistência local`
-
-### [`lanchonete-express`](https://github.com/NoveuzZ/lanchonete-express)
-
-Sistema de pedidos em terminal com categorias, carrinho, pagamento simulado, cálculo de valores e histórico.
-
-`Python` `Regras de negócio` `CLI`
-
-<div align="center">
-
-[![Abrir projetos](https://img.shields.io/badge/ABRIR%20PROJETOS-ff5a00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoveuzZ?tab=repositories)
-
-</div>
-
-## `// trilha de construção`
+## `// corrente de evolução`
 
 ```text
-┌─ BASE ────────────────────────────────────────────────────────┐
-│  [x] Python básico                                            │
-│  [x] Condicionais, laços e funções                            │
-│  [x] Menus, validações e arquivos                             │
-└───────────────────────────────────────────────────────────────┘
-
-┌─ AGORA ───────────────────────────────────────────────────────┐
-│  [~] Organização de sistemas                                  │
-│  [~] Regras de negócio                                        │
-│  [~] Persistência local                                       │
-└───────────────────────────────────────────────────────────────┘
-
-┌─ PRÓXIMO NÍVEL ───────────────────────────────────────────────┐
-│  [ ] APIs REST                                                │
-│  [ ] SQLite e SQL                                             │
-│  [ ] Autenticação mais robusta                                │
-│  [ ] Testes automatizados                                     │
-└───────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  ELO 01  [x] Python básico                                  │
+│  ELO 02  [x] Condicionais, laços e funções                  │
+│  ELO 03  [x] Menus e validações                             │
+│  ELO 04  [x] Arquivos e persistência local                  │
+│  ELO 05  [~] Separação de responsabilidades                 │
+│  ELO 06  [~] Regras de negócio                              │
+│  ELO 07  [ ] APIs REST                                      │
+│  ELO 08  [ ] SQLite e SQL                                   │
+│  ELO 09  [ ] Testes automatizados                           │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-## `// ferramentas realmente usadas`
+## `// painel de controle`
+
+```text
+┌─ STATUS DO PROCESSO ─────────────────────────────────────────┐
+│                                                              │
+│  ideia       ->   código       ->   erro       ->   ajuste   │
+│      \____________________________________________________/  │
+│                         repetir                              │
+│                                                              │
+│  [ OK ] curiosidade                                          │
+│  [ OK ] disposição para aprender                             │
+│  [ OK ] vontade de construir                                 │
+│  [WARN] experiência: carregando                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+## `// peças em uso`
 
 <div align="center">
 
@@ -132,47 +131,60 @@ Sistema de pedidos em terminal com categorias, carrinho, pagamento simulado, cá
 
 </div>
 
-## `// saída do sistema`
+## `// regra de estrada`
+
+> Não preciso parecer pronto. Preciso continuar construindo.
+
+Meu objetivo é transformar a prática em base: entender o problema, escrever uma primeira versão, encontrar o erro, corrigir sem pressa e deixar o próximo projeto um pouco melhor que o anterior.
 
 ```text
-$ python status.py
+$ ./continue.sh
 
-[ OK ] python runtime ............... online
-[ OK ] project workspace ............ loaded
-[ OK ] back-end focus ............... active
-[ OK ] curiosity .................... permanent
-[WARN] experience ................... still building
+[01] abrir o editor
+[02] escolher um problema
+[03] escrever Python
+[04] testar no terminal
+[05] corrigir o que quebrou
+[06] repetir amanhã
 
-> resposta: executar mais uma vez.
+processo: ativo
 ```
 
-## `// atividade`
+## `// telemetria`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoveuzZ&show_icons=true&hide_border=true&bg_color=080808&title_color=ff8a4c&icon_color=ff5a00&text_color=f3f4f6&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoveuzZ&layout=compact&hide_border=true&bg_color=080808&title_color=ff8a4c&text_color=f3f4f6&langs_count=4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoveuzZ&show_icons=true&hide_border=true&bg_color=050505&title_color=ff8a4c&icon_color=ff5a00&text_color=f3f4f6&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoveuzZ&layout=compact&hide_border=true&bg_color=050505&title_color=ff8a4c&text_color=f3f4f6&langs_count=4"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoveuzZ&bg_color=080808&color=ffb36b&line=ff5a00&point=ffffff&area=true&area_color=3b0700&hide_border=true&radius=8" width="94%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoveuzZ&hide_border=true&background=050505&ring=ff5a00&fire=ffb000&currStreakLabel=ff8a4c&sideLabels=f3f4f6&dates=737373&currStreakNum=ffffff&sideNums=ffffff&stroke=8f1d14"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoveuzZ&bg_color=050505&color=ffb36b&line=ff5a00&point=ffffff&area=true&area_color=3b0700&hide_border=true&radius=8" width="94%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NoveuzZ&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="94%"/>
 
 </div>
 
-## `// conexão`
+## `// conexão aberta`
 
-Se você também está construindo sua base em programação, pode acompanhar os projetos, abrir uma conversa ou simplesmente observar a evolução de cada linha de código.
+Se você também está construindo seus primeiros sistemas, pode acompanhar os projetos, abrir uma conversa ou apenas observar como uma ideia simples vai ganhando forma.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-NoveuzZ-080808?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/NoveuzZ)
 
-<br>
+<br><br>
 
 ```text
-keep moving // keep building // keep the fire alive
+  KEEP MOVING  //  KEEP BUILDING  //  KEEP THE FIRE ALIVE
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,30:9f1d00,62:3b0700,100:030303&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,25:ff5a00,52:8f1d14,78:210000,100:000000&height=170&section=footer" width="100%"/>
 
 </div>
